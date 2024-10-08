@@ -18,6 +18,9 @@
   
    <img  align="center" alt="Mateus-Python" height="70" width="110"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 
+    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+          
 </div>
 
 

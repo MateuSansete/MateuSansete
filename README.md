@@ -5,6 +5,9 @@
 <div style="display: inline_block"><br>
   Linguagens
   <img align="center" alt="Mateus-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+   <img  align="center" alt="Mateus-Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
   <img align="center" alt="Mateus-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
   <img align="center" alt="Mateus-Csharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />

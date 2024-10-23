@@ -1,5 +1,5 @@
-## Olá sou o Mateus !
-## >> Desenvolvedor back-end e estudante de Engenharia de Software. 🧑🏻‍💻
+
+## >> Estudante de Engenharia de Software. 🧑🏻‍💻
 
 
 <div style="display: inline_block"><br>

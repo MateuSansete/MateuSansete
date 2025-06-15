@@ -1,49 +1,59 @@
 <div align="center">
- 
-
-<h1>
+  <!-- Cabeçalho centralizado -->
   <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Olá, sou o <a href="http://www.d.com/">Mateus</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=MateuSansete" alt="GitHub profile views counter">
-</h1>
-
-</h1>
-
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px" />
+    Olá, sou o <a href="http://www.d.com/">Mateus</a>!
+    <img align="right" src="https://komarev.com/ghpvc/?username=MateuSansete" />
+  </h1>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Projetando sistemas para o século 22, mas sofrendo com os bugs do semestre passado..</div> 
+<!-- Imagem à direita -->
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" />
+</div>
+
+<!-- Frase com emoji -->
+<div>
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" />
+    Projetando sistemas para o século 22, mas sofrendo com os bugs do semestre passado...
+  </h3>
+</div>
 
 
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Sede em <strong>Brasília, Brasil</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contato @: <a href="mailto:mbdossantos07@gmail.com"><strong>mbdossantos07@gmail.com</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" />  Atualmente desenvolvendo aplicações com Java e companhia</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Explorando <strong>IA</strong> para otimizar a experiência do usuário
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Aprendendo <strong>novas tecnologia</strong> 
-  </li>
-</ul>
-
-
+<div align="left">
+  <ul>
+    <li>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25px" />
+      Sede em <strong>Brasília, Brasil</strong>
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25px" />
+      Contato @: <a href="mailto:mbdossantos07@gmail.com"><strong>mbdossantos07@gmail.com</strong></a>
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px" />
+      Atualmente desenvolvendo aplicações com Java e companhia
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25px" />
+      Explorando <strong>IA</strong> para otimizar a experiência do usuário
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25px" />
+      Aprendendo <strong>novas tecnologias</strong>
+    </li>
+  </ul>
+</div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
   </picture>
 </div>
+
   
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
 
